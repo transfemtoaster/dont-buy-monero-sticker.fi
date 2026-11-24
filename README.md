@@ -10,5 +10,5 @@ Preview
 =======
 
 <p align="center">
-<img src="sticker.fi.png" width="500mm" height="700mm">
+<img src="sticker.fiv2.png" width="500mm" height="700mm">
 </p>
